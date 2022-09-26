@@ -1,0 +1,1 @@
+This project is a photo editor that takes images from 'input' and changes the properties of the input to create a new image. These images can be found in 'output' and are compared with the images in 'examples'. A makefile is used that will load all of the soure code found in src. The code reads pixel properties from .tga files then manipulates the data, giving the output.

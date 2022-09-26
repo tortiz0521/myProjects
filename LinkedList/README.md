@@ -1,0 +1,1 @@
+This project is a doubly linked list with multiple functionalities added to it.
